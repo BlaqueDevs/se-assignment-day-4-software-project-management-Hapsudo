@@ -27,7 +27,14 @@ Strategies can be used to prevent budget overruns?
 9. Conduct regular financial reviews.
     
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+1. Waterfall is high risk as failures arrive late while Agile has lower risks since there is continuos feedback and changes.
+2. Waterfall is highly rigid in making changes while Agile is flexible and allows continuos changes.
+3. Waterfall's process is linear while Agile's is iterative.
+4. Testing for Waterfall is done after development whilst Agile done continuously throughout the development stage.
+5. For Waterfall, customer's is engaged in planning stage and after delivery while for Agile customer is engaged continuosly in development.
+Scenarios for Waterfall: government projects, infrastructure projects, banking system upgrade
+Scenarios for Agile: Mobile Apps,e-commerce sites, games development
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
