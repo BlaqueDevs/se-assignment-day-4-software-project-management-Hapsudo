@@ -25,9 +25,34 @@ Strategies can be used to prevent budget overruns?
 7. Prioritze High-impact features first.
 8. Negotiate with vendors.
 9. Conduct regular financial reviews.
-    
+
+Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?   
+Advantages
+a)Agile
+   1. Adaptable to any changing requirements.
+   2. Continuous feedback helps improve the quality.
+   3. Early bug detection.
+
+b)Waterfall
+1. Easier cost estimation and planning.
+2. There is a clear structure and well documented process.
+3. Ideal for large-scale projects.
+4. Works well for projects with fixed requirements.
+
+Disdvantages
+a)Agile
+1. Difficult to estimate timelines and costs.
+2. Requires strong collaboration and discipline.
+3. Less emphasis on documentation.
+4. Not ideal for strict regulatory environments
+
+b)Waterfall
+1. Changes are costly.
+2. Late testing may uncover major issues.
+3. Clients are able to see final product late in development.
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 1. Waterfall is high risk as failures arrive late while Agile has lower risks since there is continuos feedback and changes.
 2. Waterfall is highly rigid in making changes while Agile is flexible and allows continuos changes.
 3. Waterfall's process is linear while Agile's is iterative.
