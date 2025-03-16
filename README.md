@@ -59,15 +59,97 @@ b)Waterfall
 4. Testing for Waterfall is done after development whilst Agile done continuously throughout the development stage.
 5. For Waterfall, customer's is engaged in planning stage and after delivery while for Agile customer is engaged continuosly in development.
 Scenarios for Waterfall: government projects, infrastructure projects, banking system upgrade
-Scenarios for Agile: Mobile Apps,e-commerce sites, games development
+Advantages
+a)Agile
+1. Adaptable to changing requirements.
+2. Early bug detection.
+3. Improves quality because of continuous feedback.
+
+b)Waterfall
+1. Easier for cost estimation and planning.
+2. Has clear structure and well documented process.
+3. Ideal for projects with fixed requirements.
+   
+Disadvantages
+a)Agile
+1. Requires strong collaboration.
+2. Difficukt to estimate costs and timelines.
+3. Not ideal for strict regulatory environments.
+b)Waterfall
+1. Late testing may uncover major issues.
+2. Changes are costly and difficult.
+3. Clients are able to see the final product late in the development.
+   
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-a
+Agile is good for dynamic projects like web applications and mobile apps while watefall is iseal for fixed projects like banking systems and government contracts.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+1. Using agile testing.
+2. Defining clear quality standards.
+3. Performing regular code reviews.
+4. Doing automated testing.
+5. Security testing.
+6. Assessing system performance and load testing.
+7. User acceptance testing.
+   
+importance of maintaining high standards   
+1. Ensure compliance and security.
+2. Improves user experience and customer retention.
+3. Aids in cost reduction.
+4. Scalability.
+5. Enables faster deployments.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Work Breakdown Structure (WBS) is the decompressing of a project into smaller manageable components. Useful because:
+1. Improves task assignments.
+2. Helps to estimate time and costs hence better budgeting.
+3. Facilitates tracking of the project.
+4. Breaks down project complexity.
+5. Reduces overlooked tasks.
+   
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+1. Aids in resource optimization.
+2. Improves time management.
+3. Defines clear deliverables and milestones.
+4. Better risk management.
+5. Improves team collaboration.
+6. Flexible adjustments.
+
+Gant charts makes projects easier because:
+1. Show task dependecies and management.
+2. Provide a visual representation of the project timeline.
+3. Helps in resource allocation.
+4. Aids in progress tracking.
+5. Improves team collaboration.
+   
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+1. Keeps the project focused avoiding unnecessary features that waste time.
+2. Improves in requirement gathering.
+3. Reduces costs and saves time.
+4. Enahnces solution design.
+5. Ensures better user experience.
+6. Helps in quality assurance and effective testing.
+7. Facilitates collaboration and better communication.
+   
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Focus on what it does, who it helps and why the software matters.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+1. Better user experience and accessibility.
+2. Core functionality and performance.
+3. Secure and compliant to the industry standars.
+4. Provides insights and analytics.
+5. Able to integrate with other third party tools.
+   
 ## 12. What data is available regarding the market size and growth potential for your software?
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+1. Helps in understanding customer needs and pain points.
+2. Targeting the right market segment.
+3. Helps to determine optimal pricing model.
+4. For competitive advantage.
+5. Ensure your software remains modern and scalable.
+6. To ensure regulatory and compliance connsiderations.
